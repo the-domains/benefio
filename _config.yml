@@ -2,12 +2,13 @@ name: Benefio
 favicon: null
 layout_spectrum: 0.7869082652032375
 typography_spectrum: 0.18018410867080092
+title: Benefio - Transforming Boring And Complicated Industries
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74820537-1
   facebook: null
   twitter: null
 opengraph:
