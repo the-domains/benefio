@@ -1,0 +1,28 @@
+name: Benefio
+favicon: null
+layout_spectrum: 0.7869082652032375
+typography_spectrum: 0.18018410867080092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5714590593706816
+  lightness: 0.2823454502504319
+  saturation: 0.2370814038440585
+  rhythmicContrast: 0.16492796456441283
+purpose: []
