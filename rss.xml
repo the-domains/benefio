@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Benefio - Transforming Boring And Complicated Industries]]></title>
         <description><![CDATA[Benefio - Transforming Boring And Complicated Industries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.benefio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:28:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 13:28:47 GMT</lastBuildDate>
+        <atom:link href="http://www.benefio.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Value creation.
+ 
+We believe in digital transformations. Internet of things is maturing, share of people active on-line has never been higher. Incumbents are unable to react and digital disruptors are winning industry shaping battles - many new battles will follow very soon.</p>]]></description>
+            <link>http://www.benefio.com/dca8b523-6097-47f7-8d41-42f105c38884/index.html</link>
+            <guid isPermaLink="false">dca8b523-6097-47f7-8d41-42f105c38884</guid>
+            <pubDate>Tue, 08 Mar 2016 13:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4cc0fce-411e-4b6d-97bf-26a5abd056e0.png">]]></description>
-            <link>undefined35699a91-8acb-4823-a142-e169eff3544f/index.html</link>
+            <link>http://www.benefio.com/35699a91-8acb-4823-a142-e169eff3544f/index.html</link>
             <guid isPermaLink="false">35699a91-8acb-4823-a142-e169eff3544f</guid>
             <pubDate>Tue, 08 Mar 2016 13:27:03 GMT</pubDate>
         </item>
