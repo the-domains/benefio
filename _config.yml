@@ -1,7 +1,7 @@
 name: Benefio
 favicon: null
-layout_spectrum: 0.7869082652032375
-typography_spectrum: 0.18018410867080092
+layout_spectrum: 0
+typography_spectrum: 1
 title: Benefio - Transforming Boring And Complicated Industries
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1e5b9b'
+    - '#9cb5d2'
+    - '#ffffff'
+    - '#5582b2'
+    - '#9999cc'
   brandStrength: 0.5714590593706816
   lightness: 0.2823454502504319
   saturation: 0.2370814038440585
